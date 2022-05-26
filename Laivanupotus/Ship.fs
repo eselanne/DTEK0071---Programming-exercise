@@ -42,12 +42,6 @@ let player1Ship =
     System.Threading.Thread.Sleep(500)
 
 
-    //    printf "Valitse suuntaus: pysty tai vaaka\n"
-//    let orien = Console.ReadLine()
-//    let orientation = orien |> string
-//    System.Threading.Thread.Sleep(500)
-
-
     for i in 0..4 do
         printf "*\n"
         System.Threading.Thread.Sleep(400)
@@ -73,5 +67,5 @@ let AIShip =
       StartYCoord = randY
       EndXCoord = randX + 4
       EndYCoord = randY
-    //      Orientation = "horizontal"
+    // Orientation = "horizontal"
     }

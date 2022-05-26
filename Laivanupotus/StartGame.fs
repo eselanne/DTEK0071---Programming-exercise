@@ -81,16 +81,3 @@ let startGame (p1Coords, aiCoords) =
 
     printf "\nSulje peli painamalla mitä tahansa nappia\n"
     Console.ReadKey()
-
-
-
-//        printf "Stop?\n"
-
-//        if Console.ReadLine() = "stop" then
-//            continueLoop <- false
-
-
-
-// Tällai saa parametri 2D arraysta tsekattua kontenttia
-//    if (Array2D.get xCoords 1 0) = 2 then
-//        printf "ON SAMA!!"
