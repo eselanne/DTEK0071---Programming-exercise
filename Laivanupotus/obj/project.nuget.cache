@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVs5DH1jnxPgc3OzVGQw9wYmTnOetaAOAVR4ZK+RlhNI6LsMq9WMx375sV6sB5/yDufrp/lU4dKh6UfC0AYReQ==",
+  "success": true,
+  "projectFilePath": "F:\\BattleShips\\Laivanupotus\\Laivanupotus.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elmer\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
