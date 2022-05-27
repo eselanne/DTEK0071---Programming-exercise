@@ -9,4 +9,5 @@ Rules:
 -	Ship can be placed only horizontally
 -	Only one hit is needed to sink ship
 -	Player 1 starts bombing
+
 Computer enemy places ship randomly in playing grid. Computer enemy drop bombs in random positions and has tie change. Game can end up with draw.
