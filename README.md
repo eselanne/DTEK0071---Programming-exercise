@@ -12,4 +12,8 @@ Rules:
 
 Computer enemy places ship randomly in playing grid. Computer enemy drop bombs in random positions and has tie change. Game can end up with draw.
 
-*How to test game*
+### *How to run game*
+
+1. Clone this repository to your computer
+2. Navigate to /Laivaupotus folder
+3. Run *\Laivanupotus\bin\Debug\net6.0\Laivanupotus.exe*
